@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 562px;
+    height: 812px;
+    background-color: #fafafa;
+    margin-left: 439px;
+
+
+}
+.image {
+    padding-top: 150px;
+}
+h4 {
+    font-weight: bold;
+}
